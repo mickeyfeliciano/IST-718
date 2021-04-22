@@ -1,0 +1,519 @@
+Year,School,Conference,Coach,SchoolPay,Stadium Size
+2017,Alabama,SEC,Nick Saban,11132000,101821
+2019,Clemson,ACC,Dabo Swinney,10250000,81500
+2020,Alabama,SEC,Nick Saban,9100000,101821
+2019,Alabama,SEC,Nick Saban,8700000,101821
+2020,LSU,SEC,Ed Orgeron,8687500,102321
+2017,Clemson,ACC,Dabo Swinney,8504600,81500
+2018,Alabama,SEC,Nick Saban,8307000,101821
+2020,Clemson,ACC,Dabo Swinney,8258575,81500
+2020,Michigan,Big Ten,Jim Harbaugh,8054000,107601
+2018,Ohio State,Big Ten,Urban Meyer,7600000,104944
+2019,Michigan,Big Ten,Jim Harbaugh,7504000,107601
+2018,Michigan,Big Ten,Jim Harbaugh,7504000,107601
+2020,Texas A&M,SEC,Jimbo Fisher,7500000,102733
+2019,Texas A&M,SEC,Jimbo Fisher,7500000,102733
+2018,Texas A&M,SEC,Jimbo Fisher,7500000,102733
+2017,Michigan,Big Ten,Jim Harbaugh,7004000,107601
+2020,Auburn,SEC,Gus Malzahn,6900000,87451
+2020,Georgia,SEC,Kirby Smart,6803600,92746
+2019,Auburn,SEC,Gus Malzahn,6800000,87451
+2018,Auburn,SEC,Gus Malzahn,6700000,87451
+2020,Penn State,Big Ten,James Franklin,6700000,106572
+2019,Georgia,SEC,Kirby Smart,6603600,92746
+2018,Georgia,SEC,Kirby Smart,6603600,92746
+2020,Oklahoma,Big 12,Lincoln Riley,6507143,82112
+2017,Ohio State,Big Ten,Urban Meyer,6431240,104944
+2018,Clemson,ACC,Dabo Swinney,6205000,81500
+2020,Florida,SEC,Dan Mullen,6070000,88548
+2019,Florida,SEC,Dan Mullen,6070000,88548
+2018,Florida,SEC,Dan Mullen,6070000,88548
+2020,Texas,Big 12,Tom Herman,6000000,100119
+2020,Ohio State,Big Ten,Ryan Day,5748264,104944
+2017,Florida State,ACC,Jimbo Fisher,5700000,82300
+2017,Stanford,Pac-12,David Shaw,5680441,50000
+2017,Arizona,Pac-12,Rich Rodriguez,5631563,51811
+2019,Texas,Big 12,Tom Herman,5500000,100119
+2018,Texas,Big 12,Tom Herman,5500000,100119
+2017,Texas,Big 12,Tom Herman,5486316,100119
+2017,Texas Christian,Big 12,Gary Patterson,5104077,50000
+2020,Michigan State,Big Ten,Mel Tucker,5057000,75005
+2019,Florida State,ACC,Willie Taggart,5000000,82300
+2018,Florida State,ACC,Willie Taggart,5000000,82300
+2019,Illinois,Big Ten,Lovie Smith,5000000,60670
+2018,Illinois,Big Ten,Lovie Smith,5000000,60670
+2020,Kentucky,SEC,Mark Stoops,5000000,62093
+2020,Mississippi State,SEC,Mike Leach,5000000,61337
+2020,Nebraska,Big Ten,Scott Frost,5000000,87091
+2019,Nebraska,Big Ten,Scott Frost,5000000,87091
+2018,Nebraska,Big Ten,Scott Frost,5000000,87091
+2019,Oklahoma State,Big 12,Mike Gundy,5000000,60218
+2018,Oklahoma State,Big 12,Mike Gundy,5000000,60218
+2017,Texas A&M,SEC,Kevin Sumlin,5000000,102733
+2020,Utah,Pac-12,Kyle Whittingham,5000000,45017
+2020,Iowa,Big Ten,Kirk Ferentz,4900000,70585
+2019,Texas Christian,Big 12,Gary Patterson,4840717,50000
+2018,Texas Christian,Big 12,Gary Patterson,4840717,50000
+2019,Oklahoma,Big 12,Lincoln Riley,4800000,82112
+2018,Oklahoma,Big 12,Lincoln Riley,4800000,82112
+2019,Penn State,Big Ten,James Franklin,4800000,106572
+2018,Penn State,Big Ten,James Franklin,4800000,106572
+2020,Purdue,Big Ten,Jeff Brohm,4800000,56400
+2017,Auburn,SEC,Gus Malzahn,4725000,87451
+2019,Iowa,Big Ten,Kirk Ferentz,4700000,70585
+2018,Iowa,Big Ten,Kirk Ferentz,4700000,70585
+2020,Minnesota,Big Ten,P.J. Fleck,4600000,52525
+2017,Penn State,Big Ten,James Franklin,4600000,106572
+2020,South Carolina,SEC,Will Muschamp,4600000,80250
+2017,Iowa,Big Ten,Kirk Ferentz,4550000,70585
+2017,Mississippi State,SEC,Dan Mullen,4500000,61337
+2019,Ohio State,Big Ten,Ryan Day,4500000,104944
+2017,Florida,SEC,Jim McElwain,4457400,88548
+2019,Michigan State,Big Ten,Mark Dantonio,4390417,75005
+2018,Michigan State,Big Ten,Mark Dantonio,4390417,75005
+2017,Michigan State,Big Ten,Mark Dantonio,4380492,75005
+2019,Washington,Pac-12,Chris Petersen,4377500,70500
+2018,Washington,Pac-12,Chris Petersen,4375000,70500
+2019,Stanford,Pac-12,David Shaw,4311543,50000
+2018,Stanford,Pac-12,David Shaw,4311543,50000
+2020,UCLA,Pac-12,Chip Kelly,4300000,92542
+2020,Oklahoma State,Big 12,Mike Gundy,4250000,60218
+2020,Virginia Tech,ACC,Justin Fuente,4250000,66233
+2020,Wisconsin,Big Ten,Paul Chryst,4250000,80321
+2017,Arkansas,SEC,Bret Bielema,4200000,72000
+2017,Oklahoma State,Big 12,Mike Gundy,4200000,60218
+2019,South Carolina,SEC,Will Muschamp,4200000,80250
+2018,South Carolina,SEC,Will Muschamp,4200000,80250
+2017,Washington,Pac-12,Chris Petersen,4125000,70500
+2017,Tennessee,SEC,Butch Jones,4110000,102455
+2020,Virginia,ACC,Bronco Mendenhall,4100000,61500
+2018,Miami (Fla.),ACC,Mark Richt,4058061,65000
+2020,Rutgers,Big Ten,Greg Schiano,4030000,52454
+2020,Missouri,SEC,Eliah Drinkwitz,4025000,71168
+2019,Kentucky,SEC,Mark Stoops,4013600,62093
+2019,Arkansas,SEC,Chad Morris,4000000,72000
+2020,Florida State,ACC,Mike Norvell,4000000,82300
+2020,Illinois,Big Ten,Lovie Smith,4000000,60670
+2018,Kentucky,SEC,Mark Stoops,4000000,62093
+2019,Virginia Tech,ACC,Justin Fuente,4000000,66233
+2018,Virginia Tech,ACC,Justin Fuente,4000000,66233
+2018,Louisville,ACC,Bobby Petrino,3980434,55000
+2017,Louisville,ACC,Bobby Petrino,3930434,55000
+2020,Mississippi,SEC,Lane Kiffin,3900000,60580
+2020,Tennessee,SEC,Jeremy Pruitt,3846000,102455
+2019,Tennessee,SEC,Jeremy Pruitt,3846000,102455
+2018,Tennessee,SEC,Jeremy Pruitt,3846000,102455
+2020,Houston,AAC,Dana Holgorsen,3800000,40000
+2019,Purdue,Big Ten,Jeff Brohm,3800000,56400
+2018,Purdue,Big Ten,Jeff Brohm,3800000,56400
+2019,Utah,Pac-12,Kyle Whittingham,3787917,45017
+2018,Utah,Pac-12,Kyle Whittingham,3787917,45017
+2020,Indiana,Big Ten,Tom Allen,3770000,52959
+2017,Georgia,SEC,Kirby Smart,3753600,92746
+2017,Kentucky,SEC,Mark Stoops,3750000,62093
+2019,Wisconsin,Big Ten,Paul Chryst,3750000,80321
+2018,Wisconsin,Big Ten,Paul Chryst,3750000,80321
+2019,Texas Tech,Big 12,Kliff Kingsbury,3703975,60862
+2018,Texas Tech,Big 12,Kliff Kingsbury,3703975,60862
+2020,Iowa State,Big 12,Matt Campbell,3700000,61500
+2017,Utah,Pac-12,Kyle Whittingham,3687917,45017
+2019,Northwestern,Big Ten,Pat Fitzgerald,3619775,47130
+2018,Northwestern,Big Ten,Pat Fitzgerald,3619775,47130
+2018,West Virginia,Big 12,Dana Holgorsen,3605000,60000
+2019,Minnesota,Big Ten,P.J. Fleck,3550000,52525
+2018,Minnesota,Big Ten,P.J. Fleck,3550000,52525
+2017,UCLA,Pac-12,Jim Mora,3550000,92542
+2019,Virginia,ACC,Bronco Mendenhall,3550000,61500
+2018,Virginia,ACC,Bronco Mendenhall,3550000,61500
+2017,West Virginia,Big 12,Dana Holgorsen,3505000,60000
+2017,Texas Tech,Big 12,Kliff Kingsbury,3503975,60862
+2020,Arizona State,Pac-12,Herm Edwards,3500000,71706
+2018,Arkansas,SEC,Chad Morris,3500000,72000
+2019,Iowa State,Big 12,Matt Campbell,3500000,61500
+2018,Iowa State,Big 12,Matt Campbell,3500000,61500
+2019,Kansas State,Big 12,Chris Klieman,3500000,50000
+2018,Kansas State,Big 12,Bill Snyder,3500000,50000
+2019,LSU,SEC,Ed Orgeron,3500000,102321
+2018,LSU,SEC,Ed Orgeron,3500000,102321
+2017,LSU,SEC,Ed Orgeron,3500000,102321
+2017,Minnesota,Big Ten,P.J. Fleck,3500000,52525
+2020,North Carolina,ACC,Mack Brown,3500000,62980
+2019,North Carolina,ACC,Mack Brown,3500000,62980
+2019,Washington State,Pac-12,Mike Leach,3500000,32248
+2018,Washington State,Pac-12,Mike Leach,3500000,32248
+2020,Kansas,Big 12,Les Miles,3450000,50071
+2020,Cincinnati,AAC,Luke Fickell,3400000,40000
+2017,Virginia,ACC,Bronco Mendenhall,3400000,61500
+2020,California,Pac-12,Justin Wilcox,3350000,62717
+2017,Purdue,Big Ten,Jeff Brohm,3333333,56400
+2017,Northwestern,Big Ten,Pat Fitzgerald,3305818,47130
+2019,Georgia Tech,ACC,Geoff Collins,3300000,55000
+2019,UCLA,Pac-12,Chip Kelly,3300000,92542
+2018,UCLA,Pac-12,Chip Kelly,3300000,92542
+2020,Louisville,ACC,Scott Satterfield,3250000,55000
+2019,Louisville,ACC,Scott Satterfield,3250000,55000
+2020,North Carolina State,ACC,Dave Doeren,3250000,57583
+2017,Virginia Tech,ACC,Justin Fuente,3250000,66233
+2017,Arizona State,Pac-12,Todd Graham,3200000,71706
+2020,Colorado,Pac-12,Karl Dorrell,3200000,50183
+2017,Kansas State,Big 12,Bill Snyder,3200000,50000
+2017,Wisconsin,Big Ten,Paul Chryst,3200000,80321
+2019,West Virginia,Big 12,Neal Brown,3125000,60000
+2020,West Virginia,Big 12,Neal Brown,3105000,60000
+2020,Arizona,Pac-12,Kevin Sumlin,3100000,51811
+2020,Georgia Tech,ACC,Geoff Collins,3100000,55000
+2019,Miami (Fla.),ACC,Manny Diaz,3100000,65000
+2017,South Carolina,SEC,Will Muschamp,3100000,80250
+2017,Washington State,Pac-12,Mike Leach,3075000,32248
+2018,Georgia Tech,ACC,Paul Johnson,3060018,55000
+2020,Washington State,Pac-12,Nick Rolovich,3020000,32248
+2019,Pittsburgh,ACC,Pat Narduzzi,3017718,68400
+2018,Pittsburgh,ACC,Pat Narduzzi,3017718,68400
+2020,Arkansas,SEC,Sam Pittman,3000000,72000
+2017,Illinois,Big Ten,Lovie Smith,3000000,60670
+2019,Mississippi,SEC,Matt Luke,3000000,60580
+2018,Mississippi,SEC,Matt Luke,3000000,60580
+2019,North Carolina State,ACC,Dave Doeren,3000000,57583
+2018,North Carolina State,ACC,Dave Doeren,3000000,57583
+2020,Texas Tech,Big 12,Matt Wells,3000000,60862
+2020,Washington,Pac-12,Jimmy Lake,3000000,70500
+2017,Georgia Tech,ACC,Paul Johnson,2970891,55000
+2017,Nebraska,Big Ten,Mike Riley,2900000,87091
+2017,Oregon,Pac-12,Willie Taggart,2900000,54000
+2018,Colorado,Pac-12,Mike MacIntyre,2878500,50183
+2019,Vanderbilt,SEC,Derek Mason,2812523,40350
+2018,Vanderbilt,SEC,Derek Mason,2812523,40350
+2017,Colorado,Pac-12,Mike MacIntyre,2803500,50183
+2019,Kansas,Big 12,Les Miles,2775000,50071
+2017,Vanderbilt,SEC,Derek Mason,2721834,40350
+2020,Oregon,Pac-12,Mario Cristobal,2700000,54000
+2017,Oregon State,Pac-12,Gary Andersen,2650000,45674
+2018,USC,Pac-12,Clay Helton,2625965,78467
+2019,USC,Pac-12,Clay Helton,2625965,78467
+2017,Duke,ACC,David Cutcliffe,2613638,33941
+2020,Maryland,Big Ten,Mike Locksley,2605000,51802
+2019,Memphis,AAC,Mike Norvell,2600000,62380
+2018,Memphis,AAC,Mike Norvell,2600000,62380
+2019,Mississippi State,SEC,Joe Moorhead,2600000,61337
+2018,Mississippi State,SEC,Joe Moorhead,2600000,61337
+2018,North Carolina,ACC,Larry Fedora,2575000,62980
+2019,Duke,ACC,David Cutcliffe,2540928,33941
+2018,Duke,ACC,David Cutcliffe,2540928,33941
+2019,Boston College,ACC,Steve Addazio,2514859,44500
+2018,Boston College,ACC,Steve Addazio,2514859,44500
+2018,Maryland,Big Ten,DJ Durkin,2512000,51802
+2020,Kansas State,Big 12,Chris Klieman,2500000,50000
+2019,Maryland,Big Ten,Mike Locksley,2500000,51802
+2019,Oregon,Pac-12,Mario Cristobal,2500000,54000
+2018,Oregon,Pac-12,Mario Cristobal,2500000,54000
+2017,Maryland,Big Ten,DJ Durkin,2462000,51802
+2017,Boston College,ACC,Steve Addazio,2448949,44500
+2018,Syracuse,ACC,Dino Babers,2401206,49250
+2019,Colorado,Pac-12,Mel Tucker,2400000,50183
+2020,Oregon State,Pac-12,Jonathan Smith,2400000,45674
+2019,Missouri,SEC,Barry Odom,2350000,71168
+2018,Missouri,SEC,Barry Odom,2350000,71168
+2017,Missouri,SEC,Barry Odom,2350000,71168
+2020,Central Florida,AAC,Josh Heupel,2300000,45301
+2020,South Florida,AAC,Jeff Scott,2300000,65890
+2017,North Carolina,ACC,Larry Fedora,2290000,62980
+2019,Syracuse,ACC,Dino Babers,2268825,49250
+2019,Arizona State,Pac-12,Herm Edwards,2250000,71706
+2017,North Carolina State,ACC,Dave Doeren,2212600,57583
+2019,Rutgers,Big Ten,Chris Ash,2200000,52454
+2018,Rutgers,Big Ten,Chris Ash,2200000,52454
+2019,Navy,AAC,Ken Niumatalolo,2163000,34000
+2018,Navy,AAC,Ken Niumatalolo,2163000,34000
+2019,Notre Dame,Ind.,Brian Kelly,2129638,80795
+2018,Notre Dame,Ind.,Brian Kelly,2129638,80795
+2017,Oklahoma,Big 12,Lincoln Riley,2116666,82112
+2017,Iowa State,Big 12,Matt Campbell,2100000,61500
+2017,Rutgers,Big Ten,Chris Ash,2100000,52454
+2017,Southern Methodist,AAC,Chad Morris,2095793,32000
+2018,Arizona State,Pac-12,Herm Edwards,2000000,71706
+2017,Central Florida,AAC,Scott Frost,2000000,45301
+2019,Cincinnati,AAC,Luke Fickell,2000000,40000
+2018,Cincinnati,AAC,Luke Fickell,2000000,40000
+2017,Navy,AAC,Ken Niumatalolo,2000000,34000
+2019,Southern Methodist,AAC,Sonny Dykes,2000000,32000
+2019,Temple,AAC,Rod Carey,2000000,68532
+2019,Oregon State,Pac-12,Jonathan Smith,1900008,45674
+2018,Oregon State,Pac-12,Jonathan Smith,1900008,45674
+2017,Cincinnati,AAC,Luke Fickell,1900000,40000
+2017,Memphis,AAC,Mike Norvell,1860000,62380
+2020,Boise State,Mt. West,Bryan Harsin,1850000,37000
+2020,North Texas,C-USA,Seth Littrell,1850000,30850
+2019,Wake Forest,ACC,Dave Clawson,1831580,31500
+2018,Wake Forest,ACC,Dave Clawson,1831580,31500
+2019,Indiana,Big Ten,Tom Allen,1830000,52959
+2018,Indiana,Big Ten,Tom Allen,1830000,52959
+2017,Indiana,Big Ten,Tom Allen,1830000,52959
+2017,Pittsburgh,ACC,Pat Narduzzi,1827735,68400
+2017,Wake Forest,ACC,Dave Clawson,1827370,31500
+2019,Colorado State,Mt. West,Mike Bobo,1800000,34400
+2018,Colorado State,Mt. West,Mike Bobo,1800000,34400
+2019,Houston,AAC,Major Applewhite,1750000,40000
+2018,Houston,AAC,Major Applewhite,1750000,40000
+2017,Houston,AAC,Major Applewhite,1750000,40000
+2020,Memphis,AAC,Ryan Silverfield,1750000,62380
+2018,Kansas,Big 12,David Beaty,1701109,50071
+2019,Central Florida,AAC,Josh Heupel,1700000,45301
+2018,Central Florida,AAC,Josh Heupel,1700000,45301
+2019,Boise State,Mt. West,Bryan Harsin,1650010,37000
+2018,Boise State,Mt. West,Bryan Harsin,1650010,37000
+2017,Notre Dame,Ind.,Brian Kelly,1645867,80795
+2019,Tulane,AAC,Willie Fritz,1629000,30000
+2018,Tulane,AAC,Willie Fritz,1629000,30000
+2017,Kansas,Big 12,David Beaty,1601109,50071
+2019,Arizona,Pac-12,Kevin Sumlin,1600000,51811
+2018,Arizona,Pac-12,Kevin Sumlin,1600000,51811
+2017,California,Pac-12,Justin Wilcox,1600000,62717
+2017,Boise State,Mt. West,Bryan Harsin,1550004,37000
+2017,Colorado State,Mt. West,Mike Bobo,1550000,34400
+2019,Fresno State,Mt. West,Jeff Tedford,1550000,41031
+2018,Fresno State,Mt. West,Jeff Tedford,1550000,41031
+2017,Fresno State,Mt. West,Jeff Tedford,1550000,41031
+2019,Tulsa,AAC,Philip Montgomery,1518177,35542
+2018,Tulsa,AAC,Philip Montgomery,1518177,35542
+2020,Wyoming,Mt. West,Craig Bohl,1512000,29181
+2020,East Carolina,AAC,Mike Houston,1505000,50000
+2020,Alabama at Birmingham,C-USA,Bill Clark,1500000,71594
+2019,California,Pac-12,Justin Wilcox,1500000,62717
+2018,California,Pac-12,Justin Wilcox,1500000,62717
+2020,Colorado State,Mt. West,Steve Addazio,1500000,34400
+2019,Liberty,Ind.,Hugh Freeze,1500000,21088
+2020,UNLV,Mt. West,Marcus Arroyo,1500000,36800
+2019,North Texas,C-USA,Seth Littrell,1425000,30850
+2018,North Texas,C-USA,Seth Littrell,1425000,30850
+2019,Wyoming,Mt. West,Craig Bohl,1412000,29181
+2018,Wyoming,Mt. West,Craig Bohl,1412000,29181
+2017,Wyoming,Mt. West,Craig Bohl,1412000,29181
+2017,Tulsa,AAC,Philip Montgomery,1398038,35542
+2019,East Carolina,AAC,Mike Houston,1300000,50000
+2020,Fresno State,Mt. West,Kalen DeBoer,1300000,41031
+2020,Connecticut,Ind.,Randy Edsall,1256000,40000
+2020,Toledo,MAC,Jason Candle,1175000,26248
+2017,Mississippi,SEC,Matt Luke,1160000,60580
+2017,Louisiana-Lafayette,Sun Belt,Mark Hudspeth,1150000,36900
+2017,Texas-San Antonio,C-USA,Frank Wilson,1137500,72000
+2019,Toledo,MAC,Jason Candle,1125000,26248
+2018,Toledo,MAC,Jason Candle,1125000,26248
+2018,East Carolina,AAC,Scottie Montgomery,1102500,50000
+2019,Connecticut,AAC,Randy Edsall,1100000,40000
+2018,Connecticut,AAC,Randy Edsall,1100000,40000
+2019,Texas-San Antonio,C-USA,Frank Wilson,1100000,72000
+2018,Texas-San Antonio,C-USA,Frank Wilson,1100000,72000
+2017,East Carolina,AAC,Scottie Montgomery,1050000,50000
+2017,Utah State,Mt. West,Matt Wells,1050000,25513
+2020,Florida International,C-USA,Butch Davis,1041863,23500
+2020,Louisiana-Lafayette,Sun Belt,Billy Napier,1005000,36900
+2019,Baylor,Big 12,Matt Rhule,1000000,45140
+2017,Connecticut,AAC,Randy Edsall,1000000,40000
+2019,Florida Atlantic,C-USA,Lane Kiffin,1000000,30000
+2018,Florida Atlantic,C-USA,Lane Kiffin,1000000,30000
+2019,Rice,C-USA,Mike Bloomgren,1000000,70000
+2020,San Diego State,Mt. West,Brady Hoke,1000000,70561
+2019,South Florida,AAC,Charlie Strong,1000000,65890
+2018,South Florida,AAC,Charlie Strong,1000000,65890
+2017,South Florida,AAC,Charlie Strong,1000000,65890
+2017,North Texas,C-USA,Seth Littrell,991416,30850
+2017,Florida Atlantic,C-USA,Lane Kiffin,950000,30000
+2018,Liberty,Ind.,Turner Gill,947281,21088
+2019,Florida International,C-USA,Butch Davis,945000,23500
+2018,Florida International,C-USA,Butch Davis,945000,23500
+2018,Army,Ind.,Jeff Monken,932521,38000
+2020,Middle Tennessee,C-USA,Rick Stockstill,901504,30788
+2018,Alabama at Birmingham,C-USA,Bill Clark,900000,71594
+2019,Alabama at Birmingham,C-USA,Bill Clark,900000,71594
+2017,Florida International,C-USA,Butch Davis,900000,23500
+2020,Utah State,Mt. West,Gary Andersen,900000,25513
+2019,Utah State,Mt. West,Gary Anderson,900000,25513
+2018,Utah State,Mt. West,Matt Wells,900000,25513
+2018,Air Force,Mt. West,Troy Calhoun,885000,46692
+2019,San Diego State,Mt. West,Rocky Long,873576,70561
+2018,San Diego State,Mt. West,Rocky Long,872576,70561
+2020,Charlotte,C-USA,Will Healy,855000,15314
+2019,Louisiana-Lafayette,Sun Belt,Billy Napier,850000,36900
+2018,Louisiana-Lafayette,Sun Belt,Billy Napier,850000,36900
+2020,San Jose State,Mt. West,Brent Brennan,850000,30456
+2017,San Diego State,Mt. West,Rocky Long,826304,70561
+2020,Arkansas State,Sun Belt,Blake Anderson,825000,30964
+2019,Arkansas State,Sun Belt,Blake Anderson,825000,30964
+2018,Arkansas State,Sun Belt,Blake Anderson,825000,30964
+2019,New Mexico,Mt. West,Bob Davie,823740,39224
+2018,New Mexico,Mt. West,Bob Davie,822690,39224
+2017,New Mexico,Mt. West,Bob Davie,822690,39224
+2020,Central Michigan,MAC,Jim McElwain,815000,32885
+2018,Troy,Sun Belt,Neal Brown,810000,30000
+2019,Middle Tennessee,C-USA,Rick Stockstill,803004,30788
+2018,Middle Tennessee,C-USA,Rick Stockstill,801504,30788
+2017,Middle Tennessee,C-USA,Rick Stockstill,801504,30788
+2020,Texas State,Sun Belt,Jake Spavital,800000,30000
+2019,Texas State,Sun Belt,Jake Spavital,800000,30000
+2020,Texas-San Antonio,C-USA,Jeff Traylor,800000,72000
+2017,Troy,Sun Belt,Neal Brown,800000,30000
+2020,Western Kentucky,C-USA,Tyson Helton,800000,22113
+2019,Western Kentucky,C-USA,Tyson Helton,800000,22113
+2018,Western Kentucky,C-USA,Mike Sanford Jr.,800000,22113
+2017,Western Kentucky,C-USA,Mike Sanford Jr.,800000,22113
+2020,Western Michigan,MAC,Tim Lester,800000,30200
+2019,Western Michigan,MAC,Tim Lester,800000,30200
+2018,Western Michigan,MAC,Tim Lester,800000,30200
+2017,Western Michigan,MAC,Tim Lester,800000,30200
+2020,Old Dominion,C-USA,Ricky Rahne,775000,19818
+2017,Rice,C-USA,David Bailiff,772883,70000
+2020,Marshall,C-USA,Doc Holliday,762570,38227
+2019,Marshall,C-USA,Doc Holliday,762570,38227
+2018,Marshall,C-USA,Doc Holliday,762570,38227
+2017,Marshall,C-USA,Doc Holliday,762570,38227
+2020,Hawaii,Mt. West,Todd Graham,760000,50000
+2020,Appalachian State,Sun Belt,Shawn Clark,750000,24050
+2019,Appalachian State,Sun Belt,Eliah Drinkwitz,750000,24050
+2017,Arkansas State,Sun Belt,Blake Anderson,750000,30964
+2020,Florida Atlantic,C-USA,Willie Taggart,750000,30000
+2020,New Mexico,Mt. West,Danny Gonzales,725000,39224
+2018,Appalachian State,Sun Belt,Scott Satterfield,712500,24050
+2020,Texas-El Paso,C-USA,Dana Dimel,711999,51500
+2019,Charlotte,C-USA,Will Healy,700000,15314
+2020,Louisiana Tech,C-USA,Skip Holtz,700000,28562
+2019,Louisiana Tech,C-USA,Skip Holtz,700000,28562
+2018,Louisiana Tech,C-USA,Skip Holtz,700000,28562
+2017,Louisiana Tech,C-USA,Skip Holtz,700000,28562
+2018,Texas State,Sun Belt,Everett Withers,700000,30000
+2019,Texas-El Paso,C-USA,Dana Dimel,700000,51500
+2018,Texas-El Paso,C-USA,Dana Dimel,700000,51500
+2017,Toledo,MAC,Jason Candle,700000,26248
+2020,Georgia Southern,Sun Belt,Chad Lunsford,680000,24300
+2017,Appalachian State,Sun Belt,Scott Satterfield,675000,24050
+2017,Texas State,Sun Belt,Everett Withers,675000,30000
+2020,Troy,Sun Belt,Chip Lindsey,675000,30000
+2020,Massachusetts,Ind.,Walt Bell,660000,66829
+2018,Central Michigan,MAC,John Bonamego,655000,32885
+2019,Old Dominion,C-USA,Bobby Wilder,654667,19818
+2018,Old Dominion,C-USA,Bobby Wilder,654667,19818
+2019,Georgia Southern,Sun Belt,Chad Lunsford,650000,24300
+2018,Georgia Southern,Sun Belt,Chad Lunsford,650000,24300
+2017,Old Dominion,C-USA,Bobby Wilder,650000,19818
+2019,Central Michigan,MAC,Jim McElwain,640900,32885
+2018,Northern Illinois,MAC,Rod Carey,633460,10000
+2017,Alabama at Birmingham,C-USA,Bill Clark,630000,71594
+2018,Charlotte,C-USA,Brad Lambert,625000,15314
+2017,Charlotte,C-USA,Brad Lambert,625000,15314
+2019,Massachusetts,Ind.,Walt Bell,625000,66829
+2020,Nevada,Mt. West,Jay Norvell,625000,30000
+2020,Buffalo,MAC,Lance Leipold,624300,29013
+2017,Northern Illinois,MAC,Rod Carey,623000,10000
+2020,Northern Illinois,MAC,Thomas Hammock,620204,10000
+2020,South Alabama,Sun Belt,Steve Campbell,617400,33500
+2020,Georgia State,Sun Belt,Shawn Elliott,604800,28155
+2019,South Alabama,Sun Belt,Steve Campbell,600000,33500
+2018,South Alabama,Sun Belt,Steve Campbell,600000,33500
+2019,Troy,Sun Belt,Chip Lindsey,600000,30000
+2018,UNLV,Mt. West,Tony Sanchez,600000,36800
+2017,UNLV,Mt. West,Tony Sanchez,600000,36800
+2019,UNLV,Mt. West,Tony Sanchez,600000,36800
+2019,San Jose State,Mt. West,Brent Brennan,590424,30456
+2018,San Jose State,Mt. West,Brent Brennan,590424,30456
+2020,Ohio,MAC,Frank Solich,589928,24000
+2017,San Jose State,Mt. West,Brent Brennan,581916,30456
+2019,Ohio,MAC,Frank Solich,580331,24000
+2018,Ohio,MAC,Frank Solich,580331,24000
+2019,Georgia State,Sun Belt,Shawn Elliott,569000,28155
+2018,Georgia State,Sun Belt,Shawn Elliott,569000,28155
+2017,Georgia State,Sun Belt,Shawn Elliott,565000,28155
+2020,Miami (Ohio),MAC,Chuck Martin,550000,24286
+2017,Central Michigan,MAC,John Bonamego,545640,32885
+2017,South Alabama,Sun Belt,Joey Jones,535260,33500
+2020,Bowling Green,MAC,Scot Loeffler,530000,23724
+2017,Georgia Southern,Sun Belt,Tyson Summers,530000,24300
+2019,Miami (Ohio),MAC,Chuck Martin,524826,24286
+2018,Miami (Ohio),MAC,Chuck Martin,524826,24286
+2017,Ohio,MAC,Frank Solich,522715,24000
+2017,Miami (Ohio),MAC,Chuck Martin,522300,24286
+2017,Texas-El Paso,C-USA,Sean Kugler,515332,51500
+2020,Akron,MAC,Tom Arth,500000,30000
+2019,Akron,MAC,Tom Arth,500000,30000
+2019,Bowling Green,MAC,Scot Loeffler,500000,23724
+2018,Massachusetts,Ind.,Mark Whipple,500000,66829
+2019,Nevada,Mt. West,Jay Norvell,500000,30000
+2018,Nevada,Mt. West,Jay Norvell,500000,30000
+2019,Northern Illinois,MAC,Thomas Hammock,500000,10000
+2020,Southern Mississippi,C-USA,Jay Hopson,500000,36000
+2019,Southern Mississippi,C-USA,Jay Hopson,500000,36000
+2018,Southern Mississippi,C-USA,Jay Hopson,500000,36000
+2017,Southern Mississippi,C-USA,Jay Hopson,500000,36000
+2019,Hawaii,Mt. West,Nick Rolovich,486504,50000
+2020,Eastern Michigan,MAC,Chris Creighton,480000,30200
+2017,Massachusetts,Ind.,Mark Whipple,472654,66829
+2020,Ball State,MAC,Mike Neu,468000,22500
+2019,Eastern Michigan,MAC,Chris Creighton,460000,30200
+2018,Eastern Michigan,MAC,Chris Creighton,460000,30200
+2020,Kent State,MAC,Sean Lewis,460000,25000
+2019,Buffalo,MAC,Lance Leipold,455500,29013
+2018,Buffalo,MAC,Lance Leipold,455500,29013
+2017,Nevada,Mt. West,Jay Norvell,450000,30000
+2019,Ball State,MAC,Mike Neu,444403,22500
+2017,Eastern Michigan,MAC,Chris Creighton,442420,30200
+2019,Kent State,MAC,Sean Lewis,440000,25000
+2018,Kent State,MAC,Sean Lewis,440000,25000
+2018,Bowling Green,MAC,Mike Jinks,437228,23724
+2018,Ball State,MAC,Mike Neu,435689,22500
+2017,Ball State,MAC,Mike Neu,431375,22500
+2020,New Mexico State,Ind.,Doug Martin,429000,30343
+2017,Bowling Green,MAC,Mike Jinks,428655,23724
+2018,Hawaii,Mt. West,Nick Rolovich,425004,50000
+2019,New Mexico State,Ind.,Doug Martin,419640,30343
+2018,New Mexico State,Ind.,Doug Martin,419640,30343
+2017,Kent State,MAC,Paul Haynes,414030,25000
+2018,Akron,MAC,Terry Bowden,411000,30000
+2017,Akron,MAC,Terry Bowden,411000,30000
+2017,Buffalo,MAC,Lance Leipold,405500,29013
+2017,Hawaii,Mt. West,Nick Rolovich,400008,50000
+2018,Coastal Carolina,Sun Belt,Joe Moglia,400000,9214
+2017,Coastal Carolina,Sun Belt,Joe Moglia,400000,9214
+2019,Louisiana-Monroe,Sun Belt,Matt Viator,390000,30427
+2018,Louisiana-Monroe,Sun Belt,Matt Viator,390000,30427
+2017,Louisiana-Monroe,Sun Belt,Matt Viator,390000,30427
+2020,Louisiana-Monroe,Sun Belt,Matt Viator,390000,27617
+2017,New Mexico State,Sun Belt,Doug Martin,376044,30343
+2020,Coastal Carolina,Sun Belt,Jamey Chadwell,375000,9214
+2019,Coastal Carolina,Sun Belt,Jamey Chadwell,350000,9214
+2020,Air Force,Mt. West,Troy Calhoun,,46692
+2019,Air Force,Mt. West,Troy Calhoun,,46692
+2017,Air Force,Mt. West,Troy Calhoun,,46692
+2020,Army,Ind.,Jeff Monken,,38000
+2019,Army,Ind.,Jeff Monken,,38000
+2017,Army,Ind.,Jeff Monken,,38000
+2020,Baylor,Big 12,Dave Aranda,,45140
+2018,Baylor,Big 12,Matt Rhule,,45140
+2017,Baylor,Big 12,Matt Rhule,,45140
+2020,Boston College,ACC,Jeff Hafley,,44500
+2020,Brigham Young,Ind.,Kalani Sitake,,63725
+2019,Brigham Young,Ind.,Kalani Sitake,,63725
+2018,Brigham Young,Ind.,Kalani Sitake,,63725
+2017,Brigham Young,Ind.,Kalani Sitake,,63725
+2020,Duke,ACC,David Cutcliffe,,33941
+2020,Liberty,Ind.,Hugh Freeze,,21088
+2020,Miami (Fla.),ACC,Manny Diaz,,64982
+2017,Miami (Fla.),ACC,Mark Richt,,65000
+2020,Navy,AAC,Ken Niumatalolo,,34000
+2020,Northwestern,Big Ten,Pat Fitzgerald,,47130
+2020,Notre Dame,ACC,Brian Kelly,,80795
+2020,Pittsburgh,ACC,Pat Narduzzi,,68400
+2020,Rice,C-USA,Mike Bloomgren,,70000
+2018,Rice,C-USA,Mike Bloomgren,,70000
+2020,Southern Methodist,AAC,Sonny Dykes,,32000
+2018,Southern Methodist,AAC,Sonny Dykes,,32000
+2020,Stanford,Pac-12,David Shaw,,50000
+2020,Syracuse,ACC,Dino Babers,,49250
+2017,Syracuse,ACC,Dino Babers,,49250
+2020,Temple,AAC,Rod Carey,,68532
+2017,Temple,AAC,Geoff Collins,,68532
+2020,Texas Christian,Big 12,Gary Patterson,,50000
+2020,Tulane,AAC,Willie Fritz,,30000
+2017,Tulane,AAC,Willie Fritz,,30000
+2020,Tulsa,AAC,Philip Montgomery,,35542
+2020,USC,Pac-12,Clay Helton,,78467
+2017,USC,Pac-12,Clay Helton,,78467
+2020,Vanderbilt,SEC,Derek Mason,,40350
+2020,Wake Forest,ACC,Dave Clawson,,31500
