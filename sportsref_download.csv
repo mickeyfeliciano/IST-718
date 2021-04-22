@@ -1,0 +1,520 @@
+Year,School,W,L,Pct
+2020,Air Force,3,3,0.5
+2019,Air Force,11,2,0.846
+2018,Air Force,5,7,0.417
+2017,Air Force,5,7,0.417
+2020,Akron,1,5,0.167
+2019,Akron,0,12,0
+2018,Akron,4,8,0.333
+2017,Akron,7,7,0.5
+2020,Alabama,13,0,1
+2019,Alabama,11,2,0.846
+2018,Alabama,14,1,0.933
+2017,Alabama,13,1,0.929
+2020,Appalachian State,9,3,0.75
+2019,Appalachian State,13,1,0.929
+2018,Appalachian State,11,2,0.846
+2017,Appalachian State,9,4,0.692
+2020,Arizona,0,5,0
+2019,Arizona,4,8,0.333
+2018,Arizona,5,7,0.417
+2017,Arizona,7,6,0.538
+2020,Arizona State,2,2,0.5
+2019,Arizona State,8,5,0.615
+2018,Arizona State,7,6,0.538
+2017,Arizona State,7,6,0.538
+2020,Arkansas,3,7,0.3
+2019,Arkansas,2,10,0.167
+2018,Arkansas,2,10,0.167
+2017,Arkansas,4,8,0.333
+2020,Arkansas State,4,7,0.364
+2019,Arkansas State,8,5,0.615
+2018,Arkansas State,8,5,0.615
+2017,Arkansas State,7,5,0.583
+2020,Army,9,3,0.75
+2019,Army,5,8,0.385
+2018,Army,11,2,0.846
+2017,Army,10,3,0.769
+2020,Auburn,6,5,0.545
+2019,Auburn,9,4,0.692
+2018,Auburn,8,5,0.615
+2017,Auburn,10,4,0.714
+2020,Ball State,7,1,0.875
+2019,Ball State,5,7,0.417
+2018,Ball State,4,8,0.333
+2017,Ball State,2,10,0.167
+2020,Baylor,2,7,0.222
+2019,Baylor,11,3,0.786
+2018,Baylor,7,6,0.538
+2017,Baylor,1,11,0.083
+2020,Boise State,5,2,0.714
+2019,Boise State,12,2,0.857
+2018,Boise State,10,3,0.769
+2017,Boise State,11,3,0.786
+2020,Boston College,6,5,0.545
+2019,Boston College,6,7,0.462
+2018,Boston College,7,5,0.583
+2017,Boston College,7,6,0.538
+2020,Bowling Green,0,5,0
+2019,Bowling Green,3,9,0.25
+2018,Bowling Green,3,9,0.25
+2017,Bowling Green,2,10,0.167
+2020,Buffalo,6,1,0.857
+2019,Buffalo,8,5,0.615
+2018,Buffalo,10,4,0.714
+2017,Buffalo,6,6,0.5
+2020,Brigham Young,11,1,0.917
+2019,Brigham Young,7,6,0.538
+2018,Brigham Young,7,6,0.538
+2017,Brigham Young,4,9,0.308
+2020,California,1,3,0.25
+2019,California,8,5,0.615
+2018,California,7,6,0.538
+2017,California,5,7,0.417
+2020,Central Michigan,3,3,0.5
+2019,Central Michigan,8,6,0.571
+2018,Central Michigan,1,11,0.083
+2017,Central Michigan,8,5,0.615
+2020,Charlotte,2,4,0.333
+2019,Charlotte,7,6,0.538
+2018,Charlotte,5,7,0.417
+2017,Charlotte,1,11,0.083
+2020,Cincinnati,9,1,0.9
+2019,Cincinnati,11,3,0.786
+2018,Cincinnati,11,2,0.846
+2017,Cincinnati,4,8,0.333
+2020,Clemson,10,2,0.833
+2019,Clemson,14,1,0.933
+2018,Clemson,15,0,1
+2017,Clemson,12,2,0.857
+2020,Coastal Carolina,11,1,0.917
+2019,Coastal Carolina,5,7,0.417
+2018,Coastal Carolina,5,7,0.417
+2017,Coastal Carolina,3,9,0.25
+2020,Colorado,4,2,0.667
+2019,Colorado,5,7,0.417
+2018,Colorado,5,7,0.417
+2017,Colorado,5,7,0.417
+2020,Colorado State,1,3,0.25
+2019,Colorado State,4,8,0.333
+2018,Colorado State,3,9,0.25
+2017,Colorado State,7,6,0.538
+2020,Connecticut,0,0,0
+2019,Connecticut,2,10,0.167
+2018,Connecticut,1,11,0.083
+2017,Connecticut,3,9,0.25
+2020,Duke,2,9,0.182
+2019,Duke,5,7,0.417
+2018,Duke,8,5,0.615
+2017,Duke,7,6,0.538
+2020,East Carolina,3,6,0.333
+2019,East Carolina,4,8,0.333
+2018,East Carolina,3,9,0.25
+2017,East Carolina,3,9,0.25
+2020,Eastern Michigan,2,4,0.333
+2019,Eastern Michigan,6,7,0.462
+2018,Eastern Michigan,7,6,0.538
+2017,Eastern Michigan,5,7,0.417
+2020,Florida,8,4,0.667
+2019,Florida,11,2,0.846
+2018,Florida,10,3,0.769
+2017,Florida,4,7,0.364
+2020,Florida Atlantic,5,4,0.556
+2019,Florida Atlantic,11,3,0.786
+2018,Florida Atlantic,5,7,0.417
+2017,Florida Atlantic,11,3,0.786
+2020,Florida International,0,5,0
+2019,Florida International,6,7,0.462
+2018,Florida International,9,4,0.692
+2017,Florida International,8,5,0.615
+2020,Florida State,3,6,0.333
+2019,Florida State,6,7,0.462
+2018,Florida State,5,7,0.417
+2017,Florida State,7,6,0.538
+2020,Fresno State,3,3,0.5
+2019,Fresno State,4,8,0.333
+2018,Fresno State,12,2,0.857
+2017,Fresno State,10,4,0.714
+2020,Georgia,8,2,0.8
+2019,Georgia,12,2,0.857
+2018,Georgia,11,3,0.786
+2017,Georgia,13,2,0.867
+2020,Georgia Southern,8,5,0.615
+2019,Georgia Southern,7,6,0.538
+2018,Georgia Southern,10,3,0.769
+2017,Georgia Southern,2,10,0.167
+2020,Georgia State,6,4,0.6
+2019,Georgia State,7,6,0.538
+2018,Georgia State,2,10,0.167
+2017,Georgia State,7,5,0.583
+2020,Georgia Tech,3,7,0.3
+2019,Georgia Tech,3,9,0.25
+2018,Georgia Tech,7,6,0.538
+2017,Georgia Tech,5,6,0.455
+2020,Hawaii,5,4,0.556
+2019,Hawaii,10,5,0.667
+2018,Hawaii,8,6,0.571
+2017,Hawaii,3,9,0.25
+2020,Houston,3,5,0.375
+2019,Houston,4,8,0.333
+2018,Houston,8,5,0.615
+2017,Houston,7,5,0.583
+2020,Illinois,2,6,0.25
+2019,Illinois,6,7,0.462
+2018,Illinois,4,8,0.333
+2017,Illinois,2,10,0.167
+2020,Indiana,6,2,0.75
+2019,Indiana,8,5,0.615
+2018,Indiana,5,7,0.417
+2017,Indiana,5,7,0.417
+2020,Iowa,6,2,0.75
+2019,Iowa,10,3,0.769
+2018,Iowa,9,4,0.692
+2017,Iowa,8,5,0.615
+2020,Iowa State,9,3,0.75
+2019,Iowa State,7,6,0.538
+2018,Iowa State,8,5,0.615
+2017,Iowa State,8,5,0.615
+2020,Kansas,0,9,0
+2019,Kansas,3,9,0.25
+2018,Kansas,3,9,0.25
+2017,Kansas,1,11,0.083
+2020,Kansas State,4,6,0.4
+2019,Kansas State,8,5,0.615
+2018,Kansas State,5,7,0.417
+2017,Kansas State,8,5,0.615
+2020,Kent State,3,1,0.75
+2019,Kent State,7,6,0.538
+2018,Kent State,2,10,0.167
+2017,Kent State,2,10,0.167
+2020,Kentucky,5,6,0.455
+2019,Kentucky,8,5,0.615
+2018,Kentucky,10,3,0.769
+2017,Kentucky,7,6,0.538
+2020,Liberty,10,1,0.909
+2019,Liberty,8,5,0.615
+2018,Liberty,6,6,0.5
+2020,Louisiana-Lafayette,10,1,0.909
+2019,Louisiana-Lafayette,11,3,0.786
+2018,Louisiana-Lafayette,7,7,0.5
+2017,Louisiana-Lafayette,5,7,0.417
+2020,Louisiana Tech,5,5,0.5
+2019,Louisiana Tech,10,3,0.769
+2018,Louisiana Tech,8,5,0.615
+2017,Louisiana Tech,7,6,0.538
+2020,Louisiana-Monroe,0,10,0
+2019,Louisiana-Monroe,5,7,0.417
+2018,Louisiana-Monroe,6,6,0.5
+2017,Louisiana-Monroe,4,8,0.333
+2020,Louisville,4,7,0.364
+2019,Louisville,8,5,0.615
+2018,Louisville,2,10,0.167
+2017,Louisville,8,5,0.615
+2020,LSU,5,5,0.5
+2019,LSU,15,0,1
+2018,LSU,10,3,0.769
+2017,LSU,9,4,0.692
+2020,Marshall,7,3,0.7
+2019,Marshall,8,5,0.615
+2018,Marshall,9,4,0.692
+2017,Marshall,8,5,0.615
+2020,Maryland,2,3,0.4
+2019,Maryland,3,9,0.25
+2018,Maryland,5,7,0.417
+2017,Maryland,4,8,0.333
+2020,Massachusetts,0,4,0
+2019,Massachusetts,1,11,0.083
+2018,Massachusetts,4,8,0.333
+2017,Massachusetts,4,8,0.333
+2020,Memphis,8,3,0.727
+2019,Memphis,12,2,0.857
+2018,Memphis,8,6,0.571
+2017,Memphis,10,3,0.769
+2020,Miami (Fla.),8,3,0.727
+2019,Miami (Fla.),6,7,0.462
+2018,Miami (Fla.),7,6,0.538
+2017,Miami (Fla.),10,3,0.769
+2020,Miami (Ohio),2,1,0.667
+2019,Miami (Ohio),8,6,0.571
+2018,Miami (Ohio),6,6,0.5
+2017,Miami (Ohio),5,7,0.417
+2020,Michigan,2,4,0.333
+2019,Michigan,9,4,0.692
+2018,Michigan,10,3,0.769
+2017,Michigan,8,5,0.615
+2020,Michigan State,2,5,0.286
+2019,Michigan State,7,6,0.538
+2018,Michigan State,7,6,0.538
+2017,Michigan State,10,3,0.769
+2020,Middle Tennessee,3,6,0.333
+2019,Middle Tennessee,4,8,0.333
+2018,Middle Tennessee,8,6,0.571
+2017,Middle Tennessee,7,6,0.538
+2020,Minnesota,3,4,0.429
+2019,Minnesota,11,2,0.846
+2018,Minnesota,7,6,0.538
+2017,Minnesota,5,7,0.417
+2020,Mississippi State,4,7,0.364
+2019,Mississippi State,6,7,0.462
+2018,Mississippi State,8,5,0.615
+2017,Mississippi State,9,4,0.692
+2020,Missouri,5,5,0.5
+2019,Missouri,6,6,0.5
+2018,Missouri,8,5,0.615
+2017,Missouri,7,6,0.538
+2020,Navy,3,7,0.3
+2019,Navy,11,2,0.846
+2018,Navy,3,10,0.231
+2017,Navy,7,6,0.538
+2020,Nebraska,3,5,0.375
+2019,Nebraska,5,7,0.417
+2018,Nebraska,4,8,0.333
+2017,Nebraska,4,8,0.333
+2020,Nevada,7,2,0.778
+2019,Nevada,7,6,0.538
+2018,Nevada,8,5,0.615
+2017,Nevada,3,9,0.25
+2020,UNLV,0,6,0
+2019,UNLV,4,8,0.333
+2018,UNLV,4,8,0.333
+2017,UNLV,5,7,0.417
+2020,New Mexico,2,5,0.286
+2019,New Mexico,2,10,0.167
+2018,New Mexico,3,9,0.25
+2017,New Mexico,3,9,0.25
+2020,New Mexico State,1,1,0.5
+2019,New Mexico State,2,10,0.167
+2018,New Mexico State,3,9,0.25
+2017,New Mexico State,7,6,0.538
+2020,North Carolina,8,4,0.667
+2019,North Carolina,7,6,0.538
+2018,North Carolina,2,9,0.182
+2017,North Carolina,3,9,0.25
+2020,North Carolina State,8,4,0.667
+2019,North Carolina State,4,8,0.333
+2018,North Carolina State,9,4,0.692
+2017,North Carolina State,9,4,0.692
+2020,North Texas,4,6,0.4
+2019,North Texas,4,8,0.333
+2018,North Texas,9,4,0.692
+2017,North Texas,9,5,0.643
+2020,Northern Illinois,0,6,0
+2019,Northern Illinois,5,7,0.417
+2018,Northern Illinois,8,6,0.571
+2017,Northern Illinois,8,5,0.615
+2020,Northwestern,7,2,0.778
+2019,Northwestern,3,9,0.25
+2018,Northwestern,9,5,0.643
+2017,Northwestern,10,3,0.769
+2020,Notre Dame,10,2,0.833
+2019,Notre Dame,11,2,0.846
+2018,Notre Dame,12,1,0.923
+2017,Notre Dame,10,3,0.769
+2020,Ohio,2,1,0.667
+2019,Ohio,7,6,0.538
+2018,Ohio,9,4,0.692
+2017,Ohio,9,4,0.692
+2020,Ohio State,7,1,0.875
+2019,Ohio State,13,1,0.929
+2018,Ohio State,13,1,0.929
+2017,Ohio State,12,2,0.857
+2020,Oklahoma,9,2,0.818
+2019,Oklahoma,12,2,0.857
+2018,Oklahoma,12,2,0.857
+2017,Oklahoma,12,2,0.857
+2020,Oklahoma State,8,3,0.727
+2019,Oklahoma State,8,5,0.615
+2018,Oklahoma State,7,6,0.538
+2017,Oklahoma State,10,3,0.769
+2020,Old Dominion,0,0,0
+2019,Old Dominion,1,11,0.083
+2018,Old Dominion,4,8,0.333
+2017,Old Dominion,5,7,0.417
+2020,Mississippi,5,5,0.5
+2019,Mississippi,4,8,0.333
+2018,Mississippi,5,7,0.417
+2017,Mississippi,6,6,0.5
+2020,Oregon,4,3,0.571
+2019,Oregon,12,2,0.857
+2018,Oregon,9,4,0.692
+2017,Oregon,7,6,0.538
+2020,Oregon State,2,5,0.286
+2019,Oregon State,5,7,0.417
+2018,Oregon State,2,10,0.167
+2017,Oregon State,1,11,0.083
+2020,Penn State,4,5,0.444
+2019,Penn State,11,2,0.846
+2018,Penn State,9,4,0.692
+2017,Penn State,11,2,0.846
+2020,Pittsburgh,6,5,0.545
+2019,Pittsburgh,8,5,0.615
+2018,Pittsburgh,7,7,0.5
+2017,Pittsburgh,5,7,0.417
+2020,Purdue,2,4,0.333
+2019,Purdue,4,8,0.333
+2018,Purdue,6,7,0.462
+2017,Purdue,7,6,0.538
+2020,Rice,2,3,0.4
+2019,Rice,3,9,0.25
+2018,Rice,2,11,0.154
+2017,Rice,1,11,0.083
+2020,Rutgers,3,6,0.333
+2019,Rutgers,2,10,0.167
+2018,Rutgers,1,11,0.083
+2017,Rutgers,4,8,0.333
+2020,San Diego State,4,4,0.5
+2019,San Diego State,10,3,0.769
+2018,San Diego State,7,6,0.538
+2017,San Diego State,10,3,0.769
+2020,San Jose State,7,1,0.875
+2019,San Jose State,5,7,0.417
+2018,San Jose State,1,11,0.083
+2017,San Jose State,2,11,0.154
+2020,Southern Methodist,7,3,0.7
+2019,Southern Methodist,10,3,0.769
+2018,Southern Methodist,5,7,0.417
+2017,Southern Methodist,7,6,0.538
+2020,South Alabama,4,7,0.364
+2019,South Alabama,2,10,0.167
+2018,South Alabama,3,9,0.25
+2017,South Alabama,4,8,0.333
+2020,South Carolina,2,8,0.2
+2019,South Carolina,4,8,0.333
+2018,South Carolina,7,6,0.538
+2017,South Carolina,9,4,0.692
+2020,South Florida,1,8,0.111
+2019,South Florida,4,8,0.333
+2018,South Florida,7,6,0.538
+2017,South Florida,10,2,0.833
+2020,Southern Mississippi,3,7,0.3
+2019,Southern Mississippi,7,6,0.538
+2018,Southern Mississippi,6,5,0.545
+2017,Southern Mississippi,8,5,0.615
+2020,Stanford,4,2,0.667
+2019,Stanford,4,8,0.333
+2018,Stanford,9,4,0.692
+2017,Stanford,9,5,0.643
+2020,Syracuse,1,10,0.091
+2019,Syracuse,5,7,0.417
+2018,Syracuse,10,3,0.769
+2017,Syracuse,4,8,0.333
+2020,Temple,1,6,0.143
+2019,Temple,8,5,0.615
+2018,Temple,8,5,0.615
+2017,Temple,7,6,0.538
+2020,Tennessee,3,7,0.3
+2019,Tennessee,8,5,0.615
+2018,Tennessee,5,7,0.417
+2017,Tennessee,4,8,0.333
+2020,Texas,7,3,0.7
+2019,Texas,8,5,0.615
+2018,Texas,10,4,0.714
+2017,Texas,7,6,0.538
+2020,Texas A&M,9,1,0.9
+2019,Texas A&M,8,5,0.615
+2018,Texas A&M,9,4,0.692
+2017,Texas A&M,7,6,0.538
+2020,Texas Christian,6,4,0.6
+2019,Texas Christian,5,7,0.417
+2018,Texas Christian,7,6,0.538
+2017,Texas Christian,11,3,0.786
+2020,Texas State,2,10,0.167
+2019,Texas State,3,9,0.25
+2018,Texas State,3,9,0.25
+2017,Texas State,2,10,0.167
+2020,Texas Tech,4,6,0.4
+2019,Texas Tech,4,8,0.333
+2018,Texas Tech,5,7,0.417
+2017,Texas Tech,6,7,0.462
+2020,Toledo,4,2,0.667
+2019,Toledo,6,6,0.5
+2018,Toledo,7,6,0.538
+2017,Toledo,11,3,0.786
+2020,Troy,5,6,0.455
+2019,Troy,5,7,0.417
+2018,Troy,10,3,0.769
+2017,Troy,11,2,0.846
+2020,Tulane,6,6,0.5
+2019,Tulane,7,6,0.538
+2018,Tulane,7,6,0.538
+2017,Tulane,5,7,0.417
+2020,Tulsa,6,3,0.667
+2019,Tulsa,4,8,0.333
+2018,Tulsa,3,9,0.25
+2017,Tulsa,2,10,0.167
+2020,Alabama at Birmingham,6,3,0.667
+2019,Alabama at Birmingham,9,5,0.643
+2018,Alabama at Birmingham,11,3,0.786
+2017,Alabama at Birmingham,8,5,0.615
+2020,Central Florida,6,4,0.6
+2019,Central Florida,10,3,0.769
+2018,Central Florida,12,1,0.923
+2017,Central Florida,13,0,1
+2020,UCLA,3,4,0.429
+2019,UCLA,4,8,0.333
+2018,UCLA,3,9,0.25
+2017,UCLA,6,7,0.462
+2020,USC,5,1,0.833
+2019,USC,8,5,0.615
+2018,USC,5,7,0.417
+2017,USC,11,3,0.786
+2020,Utah,3,2,0.6
+2019,Utah,11,3,0.786
+2018,Utah,9,5,0.643
+2017,Utah,7,6,0.538
+2020,Utah State,1,5,0.167
+2019,Utah State,7,6,0.538
+2018,Utah State,11,2,0.846
+2017,Utah State,6,7,0.462
+2020,Texas-El Paso,3,5,0.375
+2019,Texas-El Paso,1,11,0.083
+2018,Texas-El Paso,1,11,0.083
+2017,Texas-El Paso,0,12,0
+2020,Texas-San Antonio,7,5,0.583
+2019,Texas-San Antonio,4,8,0.333
+2018,Texas-San Antonio,3,9,0.25
+2017,Texas-San Antonio,6,5,0.545
+2020,Vanderbilt,0,9,0
+2019,Vanderbilt,3,9,0.25
+2018,Vanderbilt,6,7,0.462
+2017,Vanderbilt,5,7,0.417
+2020,Virginia,5,5,0.5
+2019,Virginia,9,5,0.643
+2018,Virginia,8,5,0.615
+2017,Virginia,6,7,0.462
+2020,Virginia Tech,5,6,0.455
+2019,Virginia Tech,8,5,0.615
+2018,Virginia Tech,6,7,0.462
+2017,Virginia Tech,9,4,0.692
+2020,Wake Forest,4,5,0.444
+2019,Wake Forest,8,5,0.615
+2018,Wake Forest,7,6,0.538
+2017,Wake Forest,8,5,0.615
+2020,Washington,3,1,0.75
+2019,Washington,8,5,0.615
+2018,Washington,10,4,0.714
+2017,Washington,10,3,0.769
+2020,Washington State,1,3,0.25
+2019,Washington State,6,7,0.462
+2018,Washington State,11,2,0.846
+2017,Washington State,9,4,0.692
+2020,West Virginia,6,4,0.6
+2019,West Virginia,5,7,0.417
+2018,West Virginia,8,4,0.667
+2017,West Virginia,7,6,0.538
+2020,Western Kentucky,5,7,0.417
+2019,Western Kentucky,9,4,0.692
+2018,Western Kentucky,3,9,0.25
+2017,Western Kentucky,6,7,0.462
+2020,Western Michigan,4,2,0.667
+2019,Western Michigan,7,6,0.538
+2018,Western Michigan,7,6,0.538
+2017,Western Michigan,6,6,0.5
+2020,Wisconsin,4,3,0.571
+2019,Wisconsin,10,4,0.714
+2018,Wisconsin,8,5,0.615
+2017,Wisconsin,13,1,0.929
+2020,Wyoming,2,4,0.333
+2019,Wyoming,8,5,0.615
+2018,Wyoming,6,6,0.5
+2017,Wyoming,8,5,0.615
